@@ -1,2 +1,1 @@
-# reportes-financieros
-App para generar reportes financieros a partir de documentos
+# Backend para generación de reportes financieros
